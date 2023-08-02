@@ -2,7 +2,7 @@
 
 ## Description
 
-My Blog App is a simple Vue.js application that fetches and displays blog posts from the Hatchways API based on the selected tag and sorting options. It allows users to filter and sort the blog posts based on their preferences.
+My Blog App is a simple Vue.js application that fetches and displays blog posts from the Hatchways API based on the selected tag. It allows users to sort the blog posts based on their preferences.
 
 ## Project Setup
 
